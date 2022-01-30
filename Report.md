@@ -11,7 +11,7 @@
 ---
 # Time Series Analysis Notebook
    * Initial Time-Series Plotting<br />
-   ![Yen Photo](Images/initial.png)<br />
+   ![Yen Photo](Images/initialprice.png)<br />
    * This Plot shows the historical CAD-Yen exhange rate from 1990 to 2021. Can be used to predict trends and patterns for future forecasting.
 ---
    * Decomposition Using a Hodrick-Prescott Filter (Exchange Rate Price vs. the Trend for 2015 to the present)<br />

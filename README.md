@@ -6,7 +6,7 @@
 
 The financial departments of large companies often have to make foreign currency transactions when doing international business, while hedge funds are also interested in anything that will provide an edge in predicting currency movements. Hence, both are always eager to gain a better understanding of the future direction and risk of various currencies. 
 
-In this assignment, you will test the many time series tools that you have learned in order to predict future movements in the value of the Canadian dollar versus the Japanese yen.
+Will test the many time series tools that you have learned in order to predict future movements in the value of the Canadian dollar versus the Japanese yen.
 
 You will gain proficiency in the following tasks:
 
@@ -83,16 +83,6 @@ Use the results of the linear regression analysis and modelling to answer the fo
 * In-sample data is data that the model was trained on (training data).
 
 - - -
-
-### Submission
-
-* Use the starter Jupyter Notebooks for the time series and regression analyses and host the notebooks on GitHub.
-
-* Include a markdown that summarizes your models and findings and include this report in your GitHub repo.
-
-* Submit the link to your GitHub project to Bootcampspot.
-
----
 
 ### Submission
 
